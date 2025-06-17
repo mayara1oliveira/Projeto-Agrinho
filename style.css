@@ -85,7 +85,7 @@ header p {
 }
 
 footer {
-  background: #0c6dbd;
+  background: #002364;
   color: white;
   text-align: center;
   padding: 20px;
@@ -93,7 +93,7 @@ footer {
 }
 .rodape-centralizado {
   position: relative;
-  background: #310b77;
+  background: #002364;
   color: white;
   text-align: center;
   padding: 20px 40px;
@@ -123,7 +123,7 @@ footer {
 .acessibilidade button {
   font-size: 1em;
   padding: 6px 12px;
-  background-color: #0d388a;
+  background-color: #002364;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -131,7 +131,7 @@ footer {
 }
 
 .acessibilidade button:hover {
-  background-color: #045c33;
+  background-color: #002364;
 }
 .descricao h2 {
   margin-bottom: 30px;
@@ -190,7 +190,7 @@ main {
 .acessibilidade button {
   font-size: 1em;
   padding: 6px 12px;
-  background-color: #021d74;
+  background-color: #0930b1;
   color: #fff;
   border: none;
   border-radius: 5px;
